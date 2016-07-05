@@ -8,6 +8,8 @@ pbl(project based learning)の授業を行う際の補足情報・参考情報�
 1. ドキュメンテーションを実習する
 1. 開発プロセスを実習する
 
+## 開発するアプリのテーマ
+
 ## 評価方法
 
 1. 授業毎の活動(50%)
@@ -15,9 +17,16 @@ pbl(project based learning)の授業を行う際の補足情報・参考情報�
 	1. 進捗報告
 	1. チーム内での作業分担
 1. 企画発表(20%)
-	1. アプリの使用
+	1. アプリの仕様
+		1. 機能
+		1. 画面
+		1. 操作
 	1. スケジュール
 	1. チームメンバーの分担
+		1. リーダー
+		1. 開発
+		1. 進捗報告
+		1. プレゼン
 1. 成果発表(30%)
 
 ## 演習
@@ -44,3 +53,7 @@ pbl(project based learning)の授業を行う際の補足情報・参考情報�
 1. 品質管理
 1. セキュリティ
 1. プロジェクト完了報告
+
+## Androidアプリ開発の基本
+
+- <a href="https://developer.android.com/training/basics/firstapp/index.html" target="_blank">Building Your First App</a>
