@@ -63,3 +63,4 @@ pbl(project based learning)の授業を行う際の補足情報・参考情報�
 ## Androidアプリ開発の基本
 
 - <a href="https://developer.android.com/training/basics/firstapp/index.html" target="_blank">Building Your First App</a>
+- <a href="http://techinstitute.jp/material/02/" target="_blank">Tech Institute アプリ開発者養成講座テキスト</a>
