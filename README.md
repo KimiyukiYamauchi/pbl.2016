@@ -46,6 +46,18 @@ pbl(project based learning)の授業を行う際の補足情報・参考情報�
 1. セキュリティ
 1. プロジェクト完了報告
 
+## 日報
+1. 報告先
+	- yamauchi@std.it-college.ac.jp
+	- shiroma.motoki@ntsol.co.jp
+1. 報告内容
+	1. 報告日付
+	1. 報告者
+	1. 本日の作業(メンバー各位)
+	1. 次回の作業(メンバー各位)
+	1. 進捗状況
+	1. 問題点など
+
 ## Androidアプリ開発の基本
 
 - <a href="https://developer.android.com/training/basics/firstapp/index.html" target="_blank">Building Your First App</a>
