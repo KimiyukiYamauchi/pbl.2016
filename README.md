@@ -63,3 +63,13 @@ pbl(project based learning)の授業を行う際の補足情報・参考情報�
 - <a href="https://developer.android.com/training/basics/firstapp/index.html" target="_blank">Building Your First App</a>
 - <a href="http://techinstitute.jp/material/02/" target="_blank">Tech Institute アプリ開発者養成講座テキスト</a>
 - <a href="https://github.com/KimiyukiYamauchi/products.2016" target="_blank">製品管理機能のソース</a>
+
+## 各チームの成果物
+
+### チームGO
+
+- <a href="https://drive.google.com/drive/u/0/folders/0BwsDcsnKrs0cU1ZoV3VKcXpDOHM"　target="_blank">仕様書</a>
+
+### ヌガー(仮)
+
+- <a href="https://drive.google.com/drive/u/0/folders/0BzlvwgAw0Q7zQmdkSE5CQ2N2ME0"　target="_blank">仕様書</a>
