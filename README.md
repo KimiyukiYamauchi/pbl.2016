@@ -73,3 +73,7 @@ pbl(project based learning)の授業を行う際の補足情報・参考情報�
 ### ヌガー(仮)
 
 - <a href="https://drive.google.com/drive/u/0/folders/0BzlvwgAw0Q7zQmdkSE5CQ2N2ME0"　target="_blank">仕様書</a>
+
+### 大見謝さんのチーム
+
+- <a href="https://drive.google.com/drive/u/0/folders/0B5oiyOp41E2CQnhPT2NnOWgtTTQ" target="_blank">仕様書</a>
