@@ -77,3 +77,9 @@ pbl(project based learning)の授業を行う際の補足情報・参考情報�
 ### 大見謝さんのチーム
 
 - <a href="https://drive.google.com/drive/u/0/folders/0B5oiyOp41E2CQnhPT2NnOWgtTTQ" target="_blank">仕様書</a>
+
+### 金城さんのチーム
+
+- <a href="https://drive.google.com/drive/u/0/folders/0B_f1g6Rt6CXDTnpfS3VrN2dMUnc" target="_blank">仕様書</a>
+
+- <a href="https://github.com/s15012/PBL_teamApplication" target="_blank">ソース</a>
